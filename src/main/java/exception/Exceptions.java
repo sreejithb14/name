@@ -12,10 +12,10 @@ public class Exceptions {
 	public static void main(String args[])  /*throws Exception*/  {
 		try{
 
-			System.out.println("hello....sreejithee.....how are you");
+			System.out.println("hello....sreejithee.....how are you  ");
 			new Exceptions().foo();
 			new Exceptions().foo();
-			System.out.println("hello sreejith");
+			System.out.println("hello sreejith how do you do");
 		}catch(Throwable e) {
 			e.printStackTrace();
 			System.out.println("conflict testing...");
