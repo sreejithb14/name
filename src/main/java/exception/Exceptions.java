@@ -18,49 +18,11 @@ public class Exceptions {
 			System.out.println("hello sreejith how do you do");
 		}catch(Throwable e) {
 			e.printStackTrace();
-<<<<<<< HEAD
+
 			System.out.println("conflict testing...");
 			System.out.println("conflict testing...");
 			System.out.println("conflict testing..123.");
-||||||| merged common ancestors
-			System.out.println("conflict testing...");
-			System.out.println("conflict testing...");
-			System.out.println("conflict testing..123.");
-<<<<<<< HEAD
-=======
->>>>>>> b2e13f47a7f047bcdf115525d9c123ab771b11c8
-			System.out.println("conflict testing..123....i am going to make a conflict..");
-<<<<<<< HEAD
 
-			
-||||||| merged common ancestors
-||||||| merged common ancestors
-			System.out.println("conflict testing..123.....");
-=======
-			System.out.println("conflict testing..123....");
-			System.out.println("hii");
-			System.out.println("hii");
-			System.out.println("hii");
-=======
-			System.out.println("conflict testing..123....");
-			System.out.println("hii");	
-			System.out.println("hii");
-<<<<<<< HEAD
->>>>>>> b2e13f47a7f047bcdf115525d9c123ab771b11c8
-			
-<<<<<<< HEAD
-			
-
-||||||| merged common ancestors
->>>>>>> db16171341f1a96b12e6a4d20e47bc7ecb0be41d
-=======
-||||||| merged common ancestors
-			
-=======
-			System.out.println("hii");
->>>>>>> c38eeaab75f6ed72dcf415cffd0e159842d53049
-
->>>>>>> b2e13f47a7f047bcdf115525d9c123ab771b11c8
 		}
 	}
 }
