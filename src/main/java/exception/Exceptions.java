@@ -45,6 +45,7 @@ public class Exceptions {
 			System.out.println("conflict testing..123....");
 			System.out.println("hii");	
 			System.out.println("hii");
+<<<<<<< HEAD
 >>>>>>> b2e13f47a7f047bcdf115525d9c123ab771b11c8
 			
 <<<<<<< HEAD
@@ -53,6 +54,11 @@ public class Exceptions {
 ||||||| merged common ancestors
 >>>>>>> db16171341f1a96b12e6a4d20e47bc7ecb0be41d
 =======
+||||||| merged common ancestors
+			
+=======
+			System.out.println("hii");
+>>>>>>> c38eeaab75f6ed72dcf415cffd0e159842d53049
 
 >>>>>>> b2e13f47a7f047bcdf115525d9c123ab771b11c8
 		}
