@@ -13,7 +13,7 @@ public class Exceptions {
 			new Exceptions().foo();
 		}catch(Throwable e) {
 			e.printStackTrace();
-			System.out.println("conflict testing..123....i am going to make a conflict..123");			
+			System.out.println("conflict testing.. 123....i am going to make a conflict..123");			
 		}
 	}
 }
