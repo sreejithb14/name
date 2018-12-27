@@ -18,13 +18,10 @@ public class Exceptions {
 			System.out.println("hello sreejith how do you do");
 		}catch(Throwable e) {
 			e.printStackTrace();
-			System.out.println("conflict testing...");
-			System.out.println("conflict testing...");
-			System.out.println("conflict testing..123.");
 			System.out.println("conflict testing..123....i am going to make a conflict..");
-			System.out.println("conflict testing..123.....");
 			System.out.println("conflict testing..123....");
-			System.out.println("hii");	System.out.println("hii");
+			System.out.println("hii");	
+			System.out.println("hii");
 			
 
 		}
