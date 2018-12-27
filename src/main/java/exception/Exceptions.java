@@ -21,9 +21,15 @@ public class Exceptions {
 			System.out.println("conflict testing...");
 			System.out.println("conflict testing...");
 			System.out.println("conflict testing..123.");
+<<<<<<< HEAD
+			System.out.println("conflict testing..123....i am going to make a conflict..");
+||||||| merged common ancestors
+			System.out.println("conflict testing..123.....");
+=======
 			System.out.println("conflict testing..123....");
 			System.out.println("hii");	System.out.println("hii");
 			
+>>>>>>> db16171341f1a96b12e6a4d20e47bc7ecb0be41d
 		}
 	}
 }
