@@ -18,17 +18,13 @@ public class Exceptions {
 			e.printStackTrace();
 			System.out.println("conflict testing..123....i am going to make a conflict..");
 
-<<<<<<< HEAD
+
 			System.out.println("conflict testing...");
 			System.out.println("conflict testing...");
 			System.out.println("conflict testing..123.");
 			System.out.println("hello");
-||||||| merged common ancestors
-			System.out.println("conflict testing...");
-			System.out.println("conflict testing...");
-			System.out.println("conflict testing..123.");
-=======
->>>>>>> be37786ec2168dc70d256511cd2c29d99b5b2c69
+
+	
 
 		}
 	}
