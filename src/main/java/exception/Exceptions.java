@@ -23,7 +23,6 @@ public class Exceptions {
 			System.out.println("hii");	
 			System.out.println("hii");
 			System.out.println("hii");
-
 		}
 	}
 }
